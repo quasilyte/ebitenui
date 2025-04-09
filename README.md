@@ -50,6 +50,7 @@ Used By
 * [Sinecord by quasilyte](https://quasilyte.itch.io/sinecord)
 * [Cavebots by quasilyte](https://quasilyte.itch.io/cavebots)
 * [NebuLeet by quasilyte](https://store.steampowered.com/app/3024370/NebuLeet)
+* [Fantastic General by quasilyte](https://github.com/quasilyte/ld57-game/)
 
 
 Social Media
